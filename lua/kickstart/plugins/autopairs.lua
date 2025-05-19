@@ -22,4 +22,5 @@ return {
       Rule('\\(', '\\)', 'tex'),
     }
   end,
+  -- opts = {},
 }
